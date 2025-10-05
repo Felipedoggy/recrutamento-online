@@ -25,5 +25,5 @@ atividade-recrutamento/
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/recrutamento-online.git
+git clone https://github.com/Felipedoggy/recrutamento-online.git
 cd recrutamento-online
